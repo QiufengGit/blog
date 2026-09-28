@@ -123,5 +123,5 @@ https://echarts.apache.org/examples/zh/editor.html?c=dataset-encode0
 ---
 
 > 作者: [qiu](https://qiufenggit.github.io/)  
-> URL: http://localhost:1313/posts/d4e50c0/  
+> URL: https://qiufenggit.github.io/blog/posts/d4e50c0/  
 

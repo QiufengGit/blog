@@ -7,5 +7,5 @@
 ---
 
 > 作者: [qiu](https://qiufenggit.github.io/)  
-> URL: http://localhost:1313/posts/52b4740/  
+> URL: https://qiufenggit.github.io/blog/posts/52b4740/  
 

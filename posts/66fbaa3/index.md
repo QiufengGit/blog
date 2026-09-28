@@ -13,5 +13,5 @@
 ---
 
 > 作者: [qiu](https://qiufenggit.github.io/)  
-> URL: http://localhost:1313/posts/66fbaa3/  
+> URL: https://qiufenggit.github.io/blog/posts/66fbaa3/  
 

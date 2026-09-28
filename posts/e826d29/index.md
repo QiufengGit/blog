@@ -149,5 +149,5 @@ https://www.fotor.com.cn/app.html#/design 设计一些好看的图片
 ---
 
 > 作者: [qiu](https://qiufenggit.github.io/)  
-> URL: http://localhost:1313/posts/e826d29/  
+> URL: https://qiufenggit.github.io/blog/posts/e826d29/  
 

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>learn - 标签 - 湫的小站</title>
-    <link>http://localhost:1313/tags/learn/</link>
+    <link>https://qiufenggit.github.io/blog/tags/learn/</link>
     <description>learn - 标签 | 湫的小站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 23 Dec 2023 13:00:30 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/learn/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 23 Dec 2023 13:00:30 &#43;0800</lastBuildDate><atom:link href="https://qiufenggit.github.io/blog/tags/learn/" rel="self" type="application/rss+xml" /><item>
   <title>科技写作课堂笔记</title>
-  <link>http://localhost:1313/posts/f96b412/</link>
+  <link>https://qiufenggit.github.io/blog/posts/f96b412/</link>
   <pubDate>Sat, 23 Dec 2023 13:00:30 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:1313/posts/f96b412/</guid>
+  <guid>https://qiufenggit.github.io/blog/posts/f96b412/</guid>
   <description><![CDATA[科技写作课堂笔记1 p1：科技写作很重要课堂讲述内容：
 1、email
 2、paper

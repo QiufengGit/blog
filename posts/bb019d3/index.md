@@ -23,5 +23,5 @@ serverURL=客户端URL即可
 ---
 
 > 作者: [qiu](https://qiufenggit.github.io/)  
-> URL: http://localhost:1313/posts/bb019d3/  
+> URL: https://qiufenggit.github.io/blog/posts/bb019d3/  
 

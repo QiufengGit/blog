@@ -1,30 +1,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>draft - 分类 - 湫的小站</title>
-    <link>http://localhost:1313/categories/draft/</link>
+    <link>https://qiufenggit.github.io/blog/categories/draft/</link>
     <description>draft - 分类 | 湫的小站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 07 Jul 2024 00:26:23 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/draft/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 07 Jul 2024 00:26:23 &#43;0800</lastBuildDate><atom:link href="https://qiufenggit.github.io/blog/categories/draft/" rel="self" type="application/rss+xml" /><item>
   <title>Sumercamp</title>
-  <link>http://localhost:1313/posts/689dedf/</link>
+  <link>https://qiufenggit.github.io/blog/posts/689dedf/</link>
   <pubDate>Sun, 07 Jul 2024 00:26:23 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:1313/posts/689dedf/</guid>
+  <guid>https://qiufenggit.github.io/blog/posts/689dedf/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
   <title>Whu_tanhua</title>
-  <link>http://localhost:1313/posts/52b4740/</link>
+  <link>https://qiufenggit.github.io/blog/posts/52b4740/</link>
   <pubDate>Fri, 08 Mar 2024 14:30:27 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:1313/posts/52b4740/</guid>
+  <guid>https://qiufenggit.github.io/blog/posts/52b4740/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
   <title>一封情书 来源:知乎</title>
-  <link>http://localhost:1313/posts/f96b3a4/</link>
+  <link>https://qiufenggit.github.io/blog/posts/f96b3a4/</link>
   <pubDate>Wed, 14 Feb 2024 13:00:30 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:1313/posts/f96b3a4/</guid>
+  <guid>https://qiufenggit.github.io/blog/posts/f96b3a4/</guid>
   <description><![CDATA[<p><strong>姑娘：</strong></p>
 <p><strong>你听我说。</strong></p>]]></description>
 </item>

@@ -447,5 +447,5 @@ SPFA算法要求：不含负环
 ---
 
 > 作者: [qiu](https://qiufenggit.github.io/)  
-> URL: http://localhost:1313/posts/466bc94/  
+> URL: https://qiufenggit.github.io/blog/posts/466bc94/  
 
